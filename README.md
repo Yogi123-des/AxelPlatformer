@@ -1,5 +1,6 @@
 # AxelPlatformer
 This Project is a simple 2D platformer about a character named Axel. It was developed over a period of 3 weeks.
+(It is also my first project).
 It is a fun and challenging short game that one can play to pass their time.
 Here is the itch.io link:
 https://yogesh123.itch.io/axel
